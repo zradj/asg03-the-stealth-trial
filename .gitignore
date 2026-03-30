@@ -1,0 +1,52 @@
+# Unity generated folders (any project inside repo)
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/[Ll]ogs/
+**/[Uu]ser[Ss]ettings/
+
+# Visual Studio / Rider
+.vs/
+.gradle/
+.consulo/
+ExportedObj/
+
+**/*.csproj
+**/*.unityproj
+**/*.sln
+**/*.suo
+**/*.tmp
+**/*.user
+**/*.userprefs
+**/*.pidb
+**/*.booproj
+**/*.svd
+**/*.pdb
+**/*.mdb
+**/*.opendb
+**/*.VC.db
+
+# Unity crash files
+**/sysinfo.txt
+**/mono_crash.*
+
+# Build artifacts
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Memory captures / recordings
+**/[Mm]emoryCaptures/
+**/[Rr]ecordings/
+
+# Blender temp
+*.blend1
+*.blend1.meta
+
+# Addressables
+**/ServerData/
+**/[Aa]ssets/StreamingAssets/aa*
+**/[Aa]ssets/AddressableAssetsData/*/*.bin*
